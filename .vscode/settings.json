@@ -1,0 +1,25 @@
+{
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 0.5,
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#008cff",
+        "activityBarBadge.background": "#00ffe1",
+        "activityBarBadge.foreground": "#0f0f0f", 
+        // Border separating the title bar from the rest of the editor
+        "titleBar.border": "#008cff",
+        // Border color to separate Tabs from each other
+        "tab.border": "#008cff",
+        // Border color on the top separating to the editor (terminal)
+        "panel.border": "#008cff",
+        // Border color on the side separating the editor
+        "sideBar.border": "#008cff",
+        // Border color with the Side Bar
+        "activityBar.border": "#008cff",
+        // Border color separating the Status Bar and editor
+        "statusBar.border": "#008cff",
+        // Border color to separate multiple editor groups from each other
+        "editorGroup.border": "#008cff",
+        // Border color of the editor group title header when tabs are enabled
+        "editorGroupHeader.tabsBorder": "#008cff"
+      },
+}
